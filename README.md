@@ -2,7 +2,7 @@
 
 **Programador y técnico IT en Madrid.** Desarrollo apps Android y Flutter, y curso ASIR para sumar sistemas y redes al desarrollo.
 
-> 🇬🇧 *Developer and IT technician based in Madrid, focused on Android and Flutter apps. Open to junior mobile and software roles.*
+> **EN** · *Developer and IT technician based in Madrid, focused on Android and Flutter apps. Open to junior mobile and software roles.*
 
 Me formé en Desarrollo de Aplicaciones Multiplataforma (DAM) y he trabajado como desarrollador web en GD Systems: paneles de Power BI, integración de datos y APIs, y webs en WordPress. Quiero centrarme en el desarrollo de aplicaciones móviles: productos útiles, bien hechos y preparados para crecer.
 
