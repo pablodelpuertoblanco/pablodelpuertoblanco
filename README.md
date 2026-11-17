@@ -63,4 +63,3 @@ Me formé en Desarrollo de Aplicaciones Multiplataforma (DAM) y he trabajado com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-del-puerto-blanco-4aa49b38a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delpuertoblancopablo@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/PablodelPuerto)
